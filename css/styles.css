@@ -1,0 +1,7 @@
+#header-backgroung{
+  background-image: url("../img/backgrounds/landing.jpg");
+  height: 500px;
+  width: 100%;
+  background-size: cover;
+  margin: 0 0 0 0;
+}
