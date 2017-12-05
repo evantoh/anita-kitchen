@@ -1,7 +1,25 @@
-#header-backgroung{
+#header-background{
   background-image: url("../img/backgrounds/landing.jpg");
   height: 500px;
   width: 100%;
   background-size: cover;
   margin: 0 0 0 0;
+}
+#image-logo{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+  top:33%;
+  height: auto;
+  width:  10%;
+}
+#header-background p{
+color:white;
+text-align: center;
+font-size: 25px;
+font-family: arial;
+font-weight: 400;
+position: relative;
+top: 33%;
 }
