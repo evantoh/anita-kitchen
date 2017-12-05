@@ -23,3 +23,82 @@ font-weight: 400;
 position: relative;
 top: 33%;
 }
+#header-background span{
+    font-weight: 900;
+}
+
+
+
+/*  meals section
+*/
+.meals{
+    height: 220px;
+    margin-right: -45px;
+    padding: 0px;
+}
+.special-times{
+    height: inherit;
+    margin-left: -30px;
+}
+.happy{
+  background-color:#ffffff;
+  height:50%;
+  width: 100%;
+  font-style: bold;
+  color: black;
+  text-align: center;
+}
+.happy h2{
+    position: relative;
+    top:33%;
+    margin: 0px;
+}
+.party-time{
+  background-color:#F15A29;
+  height: 50%;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+}
+.party-time h2{
+   position: relative;
+   top:33%;
+margin: 0px;
+
+}
+
+.breakfast{
+  height:inherit;
+  background-image: url("../img/foodtop/breakfast.jpg");
+  background-size: cover;
+  text-align: center;
+  margin-left: -15px;
+  color: white;
+}
+.breakfast h2{
+    position: relative;
+   top:33%;
+}
+.lunch{
+ height:inherit;
+  background-image: url("../img/foodtop/lunch.jpg");
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+.lunch h2{
+   position: relative;
+   top:33%;
+}
+.dinner{
+ height:inherit;
+  background-image: url("../img/foodtop/dinner.jpg");
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+.dinner h2{
+    position: relative;
+   top:33%;
+
+}
