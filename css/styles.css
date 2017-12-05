@@ -102,3 +102,63 @@ margin: 0px;
    top:33%;
 
 }
+
+/*
+food and drinks
+*/
+.food-and-drinks{
+    margin-top:  80px;
+}
+.food{
+    height: 500px;
+
+}
+.food-img{
+    height: inherit;
+    padding: 20px;
+}
+#food_img1{
+  background-image: url("../img/fastFood1.jpg");
+    width: 100%;
+    height: 50%;
+    background-size: cover;
+
+}
+#food_img2{
+background-image: url("../img/fastFood2.jpg");
+    width: 100%;
+     height: 50%;
+    background-size: cover;
+}
+.food-txt{
+    padding-left: 60px;
+}
+.food-txt p{
+    margin-bottom: 40px;
+}
+.btn-view-gallery{
+    text-decoration: none;
+    color: red;
+    border:  1px solid red;
+    padding: 12px 36px;
+    border-radius: 2px;
+}
+.drinks{
+   height:  500px;
+}
+
+#backgroun-image{
+  background-image: url("../img/backgrounds/foodsBg.jpg");
+display:flex;
+justify-content: center;
+align-items: center;
+}
+#fastfood-row{
+  margin :50px;
+  background-color: white;
+}
+.menu-images{padding:50px;}
+.menu-text p{text-align: center;
+padding:auto;
+padding-top: 20px;
+}
