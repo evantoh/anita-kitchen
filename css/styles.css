@@ -3,6 +3,12 @@
   height: 500px;
   width: 100%;
 }
+#header-background span{
+  font-size:30px;
+  cursor:pointer;
+  color:white;
+}
+
 #image-logo{
   display: block;
   margin-right: auto;
