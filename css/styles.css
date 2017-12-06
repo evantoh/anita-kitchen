@@ -1,34 +1,96 @@
+/*header
+section*/
 #header-background{
-  background-image: url("../img/backgrounds/landing.jpg");
-  height: 500px;
-  width: 100%;
+background-image: url("../img/backgrounds/landing.jpg");
+height: 500px;
+width: 100%;
 }
 #header-background span{
-  font-size:40px;
-  cursor:pointer;
-  color:white;
+font-size:40px;
+cursor:pointer;
+color:white;
 font color: #fff;
 }
 #header-background p{
 margin: auto;
 padding-left: 42%;
 font-size: x-large;
+font-family: arial;
+font color:white;
 }
-
-
 
 #image-logo{
-  display: block;
-  margin-right: auto;
-    margin-left: auto;
-    padding-top:90px;
+display: block;
+margin-right: auto;
+margin-left: auto;
+padding-top:90px;
+}
+.breakfast{
+background-image: url("../img/foodtop/breakfast.jpg");
+height:170px;
+text-align: center;
+color: white;
+padding-top: 30px;
+font-size: 25px;
+}
+.breakfast:hover{
+opacity: 0.5;
+}
+.lunch{
+background-image: url("../img/foodtop/lunch.jpg");
+height:170px;
+text-align: center;
+color: white;
+padding-top: 30px;
+font-size: 25px;}
+.lunch:hover{
+opacity: 0.5;
+}
+.dinner{
+background-image: url("../img/foodtop/dinner.jpg");
+height: 170px;
+text-align: center;
+color: white;
+padding-top: 30px;
+font-size: 25px;}
+.dinner:hover{
+opacity:0.5;
+}
+.happy-color{
+background-color: white;
+}
+.happy-hour{
+background-color:grey;
+height: 85px;
+width:100%;
+text-align: center;
+color:white;
+font-size: 23px;
+font-style: bold;
+padding-top: 35px;
+color: black;
+}
+.happy-hour:hover{color:white;}
+.party-time{
+background-color:#F15A29;
+height: 85px;
+width: 100%;
+text-align: center;
+color:white;
+font-size: 23px;
+font-style: bold;
+padding-top: 35px;
+color: black;
 
 }
-#header-backgroung p{color:white;
-text-align: center;
-font-size: 25px;
-font-family: arial;
-font-style: bold;}
+.party-time:hover{color:white;}
+#hour-party-float{
+padding: 0px;
+}
+#lunch-dinner #breakfast p{
+  font-size: 30px;
+}
+
 /*#happy-hour{
   background-color: grey;
   color: black;
@@ -126,65 +188,6 @@ padding-top: 20px;
   cursor: pointer;
   text-align: left;
   color: white;
-}
-.breakfast{background-image: url("../img/foodtop/breakfast.jpg");
-              height:170px;
-              text-align: center;
-              color: white;
-              padding-top: 30px;
-              font-size: 25px;
-              }
-.breakfast:hover{
-  opacity: 0.5;
-}
-.lunch{background-image: url("../img/foodtop/lunch.jpg");
-        height:170px;
-        text-align: center;
-        color: white;
-        padding-top: 30px;
-        font-size: 25px;}
-.lunch:hover{
-            opacity: 0.5;
-}
-.dinner{background-image: url("../img/foodtop/dinner.jpg");
-        height: 170px;
-        text-align: center;
-        color: white;
-        padding-top: 30px;
-        font-size: 25px;}
-.dinner:hover{
-  opacity:0.5;
-}
-.happy-color{
-  background-color: white;
-}
-.happy-hour{
-  background-color:grey;
-  height: 85px;
-  width:100%;
-  text-align: center;
-  color:white;
-  font-size: 23px;
-  font-style: bold;
-  padding-top: 35px;
-  color: black;
-}
-.happy-hour:hover{color:white;}
-.party-time{
-  background-color:#F15A29;
-  height: 85px;
-  width: 100%;
-  text-align: center;
-  color:white;
-  font-size: 23px;
-  font-style: bold;
-  padding-top: 35px;
-  color: black;
-
-}
-.party-time:hover{color:white;}
-#hour-party-float{
-  padding: 0px;
 }
 .overlay {
     height: 100%;
