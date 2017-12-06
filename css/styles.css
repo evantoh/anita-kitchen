@@ -87,44 +87,17 @@ color: black;
 #hour-party-float{
 padding: 0px;
 }
-#lunch-dinner #breakfast p{
-  font-size: 30px;
-}
-
-/*#happy-hour{
-  background-color: grey;
-  color: black;
-  font-size: 30px;
-  height:80px;
-  padding-left:0px;
-
-}
-#party-time{
-  background-image:url("../images/backgrounds/landing.jpg");
-  color: white;
-  font-size: 30px;
-  height:80px;
-  overflow: hide;
-  padding-left:0px;
-}*/
 #breakfast{height:160px;
   margin: 0px;
-
   background-image: url("../img/foodtop/breakfast.jpg");
-  /*text-align: center;*/
   color: white;
-  /*vertical-align: middle;*/
   padding: 80px;
-
-
 }
-#lunch{height:160px;
+#lunch{
+  height:160px;
   margin: 0px;
-
   background-image: url("../img/foodtop/lunch.jpg");
-  /*text-align: center;*/
   color: white;
-  /*vertical-align: middle;*/
   padding: 80px;
 }
 #dinner{height:160px;
@@ -138,10 +111,6 @@ padding: 0px;
   overflow: hidden;
 }
 #button{background-color: grey;}
-/*#fastfood-image{background-image: url("images/fastfood6.jpg");
-height:350px;
-width: 50%;
-display: block;}*/
 #backgroun-image{background-image: url("../img/backgrounds/foodsBg.jpg");
 display:flex;
 justify-content: center;
