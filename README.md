@@ -1,4 +1,4 @@
-## anitias kitchen
+## anitta's kitchen
 
 
 
@@ -6,11 +6,11 @@ this is an application i developed for kitchen ,by name anitas kitchen.i develop
 
 ## Setup/Installation Requirements
 
-* get a computer
-* have internet access with browser installed on your computer
-* ensure git is installed on your machine
-* open browser tab ang get to github and copy my repository url
-* run git clone url of the repository
+* have an installation platform i.e computer,laptop etc
+* have internet access with browser installed on your computer.chrome is most preffered.
+* ensure git is installed on your machine.
+* open browser tab and get to github and copy my repository url(cloning).
+* run git clone and paste the url on the terminal
 
 
 link to my project
