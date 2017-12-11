@@ -56,6 +56,19 @@ font-size: 25px;}
 .dinner:hover{
 opacity:0.5;
 }
+#fast-food h2{
+font-size: 60px;
+font-style: italic;
+text-align: center;   
+}
+#fast-food h6{
+font-size: 20px;
+text-align: center; 
+font-style: bold  
+}
+#fast-food p{
+  font-size: 17px;-  
+}
 .happy-color{
 background-color: white;
 }
@@ -141,7 +154,9 @@ padding-top: 20px;
 
 .email-title{color:white;
       text-align: center;}
-.section-center{margin-left: 40%;}
+.section-center{ 
+    margin-left: 40%;
+}
 
 .backgroung-img {
   background: #F15A29;
