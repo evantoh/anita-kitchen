@@ -13,10 +13,9 @@ font color: #fff;
 }
 #header-background p{
 margin: auto;
-padding-left: 42%;
-font-size: x-large;
+padding-left: 33%;
+font-size: 26px;
 font-family: arial;
-font color:white;
 }
 
 #image-logo{
@@ -59,15 +58,15 @@ opacity:0.5;
 #fast-food h2{
 font-size: 60px;
 font-style: italic;
-text-align: center;   
+text-align: center;
 }
 #fast-food h6{
 font-size: 20px;
-text-align: center; 
-font-style: bold  
+text-align: center;
+font-style: bold
 }
 #fast-food p{
-  font-size: 17px;-  
+  font-size: 17px;-
 }
 .happy-color{
 background-color: white;
@@ -154,7 +153,7 @@ padding-top: 20px;
 
 .email-title{color:white;
       text-align: center;}
-.section-center{ 
+.section-center{
     margin-left: 40%;
 }
 
